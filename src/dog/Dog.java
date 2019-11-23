@@ -52,7 +52,7 @@ public class Dog {
     }
 
     //returneaza greutatea cainelui
-    public double getWeight(){
+    public double getWeight() {
         return weight;
     }
 }
